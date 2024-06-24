@@ -1,3 +1,4 @@
 streamlit
 nltk
-sklearn
+#sklearn
+scikit-learn
